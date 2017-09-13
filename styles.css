@@ -1,9 +1,22 @@
 /* Tag Selectors */
 
+* {
+	box-sizing: border-box;
+}
+
 /* Class Selectors */
+
 
 /* ID Selectors */
 
+
 /* Advanced Selectors */
 
+
 /* Pseudo Selectors */
+*::before {
+	box-sizing: border-box;
+},
+*::after {
+	box-sizing: border-box;
+}
