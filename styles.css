@@ -92,3 +92,8 @@ footer {
 *::after {
 	box-sizing: border-box;
 }
+
+.picture img:hover {
+	opacity: 0.1;
+
+}
