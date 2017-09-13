@@ -107,6 +107,6 @@ article {
 	box-sizing: border-box;
 }
 
-.picture img:hover {
+article img:hover {
 	opacity: 0.2;
 }
